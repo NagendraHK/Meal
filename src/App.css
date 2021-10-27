@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 10vh;
+  background: rgb(36, 37, 37);
+  color: aliceblue;
+}
+.nav-Links{
+  width: 50%;
+  justify-content: space-around;
+  display: flex;
+  align-items: center;
+  list-style: none;
+}
+.meal{
+  text-align: justify;
+margin: 35px;
+}
+.Img-link{
+  width: 25%
+}
